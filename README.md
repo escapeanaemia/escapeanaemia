@@ -13,15 +13,15 @@ Hi i'm Andrew Han, a final year global media and information technology student 
   - English: Professional working proficiency
   - Russian: Elementary proficiency
 
-## I am good at
+## ✨ I am good at
 - iOS programming
 - Swift
 
-## I am interested in 
+## ⭐️ I am interested in 
 - Media Art
 - Interactive Art & Design
 
-## I have a experience of 
+## ☕️ I have a experience of 
 - Unity: C#
 - Front-End: React.js
 - Back-End: Node.js, PHP, MySQL
@@ -29,7 +29,11 @@ Hi i'm Andrew Han, a final year global media and information technology student 
 - Processing: Java, Javascript(p5.js)
 - Arduino: C
 
-## 
+## 🙋🏻‍♂️ I like people who
+- like me 
+- have a dream (or goal)
+- can understand the other
+- like travel⛺️
 
 <!--
 **escapeanaemia/escapeanaemia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
