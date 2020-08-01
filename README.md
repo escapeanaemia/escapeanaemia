@@ -28,12 +28,13 @@ Hi i'm Andrew Han, a final year global media and information technology student 
 - Android programming: Java, Kotlin
 - Processing: Java, Javascript(p5.js)
 - Arduino: C
+- iOS/OSX: Swift, SwiftUI
 
 ## 🙋🏻‍♂️ I like people who
-- like me 
 - have a dream (or goal)
 - can understand the other
 - like travel⛺️
+- like me 
 
 <!--
 **escapeanaemia/escapeanaemia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
