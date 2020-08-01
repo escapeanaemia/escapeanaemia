@@ -6,7 +6,7 @@ Hi i'm Andrew Han, a final year global media and information technology student 
  
 ## I am
 - 📍 currently living in Seoul, S.Korea
-- 🌱 currently studying artificial intelligence
+- 🌱 currently studying computer science, interactive art
 - 📫 How to reach me: escapeanaemia@gmail.com
 - 😄 Languages: 
   - Korean: Native or bilingual proficiency
