@@ -2,7 +2,7 @@
 # Andrew Han
 
 
-Hi i'm Andrew Han, a final year global media and information technology student at Soongsil University in South Korea. Receipient of the Seoul City Scholarship for global media studies and proficiency in programming (iOS, front-end developer), I have personally published multiple applications on the App Store for various companies, startups and school societies. Paying homage to these accomplishments, I am thankful to have been given the opportunity give back to the society such as being the South-Korean Ambassador for the Overseas Korean Foundation and a leading representative for the International Student Orgnisation at Soongsil University. 
+Hi i'm Andrew, a final year global media and information technology student at Soongsil University in South Korea. Receipient of the Seoul City Scholarship for global media studies and proficiency in programming (iOS, front-end developer), I have personally published multiple applications on the App Store for various companies, startups and school societies. Paying homage to these accomplishments, I am thankful to have been given the opportunity give back to the society such as being the South-Korean Ambassador for the Overseas Korean Foundation and a leading representative for the International Student Orgnisation at Soongsil University. 
  
 ## I am
 - 📍 currently living in Seoul, S.Korea
