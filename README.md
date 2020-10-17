@@ -38,7 +38,7 @@ Hi i'm Andrew, a final year global media and information technology student at S
 - like me 
 
 ## ⤵️ Contribution
-- [State](https://github.com/exelban/stats)
+- [Stats](https://github.com/exelban/stats)
 <!--
 **escapeanaemia/escapeanaemia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
