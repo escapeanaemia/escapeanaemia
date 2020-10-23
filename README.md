@@ -8,7 +8,6 @@ Hi i'm Andrew, a final year global media and information technology student at S
 - 📍 currently living in Seoul, S.Korea
 - 🌱 currently studying computer science, interactive art
 - 📫 How to reach me: escapeanaemia@gmail.com
-- 📎 [LinkedIn](https://www.linkedin.com/in/sangjun-han-4b184a190/)
 - 😄 Languages: 
   - Korean: Native or bilingual proficiency
   - English: Professional working proficiency
