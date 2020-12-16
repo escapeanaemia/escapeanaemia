@@ -9,7 +9,7 @@ Hi i'm Andrew, a final year global media and information technology student at S
 - 🌱 currently studying computer science, interactive art
 - 📫 How to reach me: escapeanaemia@gmail.com
 - 😄 Languages: 
-  - Korean: Native or bilingual proficiency
+  - Korean: Native proficiency
   - English: Professional working proficiency
   - Russian: Elementary proficiency
 
